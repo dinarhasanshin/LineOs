@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/LineOs/static/css/main.a617e044.chunk.css",
+    "main.js": "/LineOs/static/js/main.c2a44a2b.chunk.js",
+    "main.js.map": "/LineOs/static/js/main.c2a44a2b.chunk.js.map",
+    "runtime-main.js": "/LineOs/static/js/runtime-main.b2d9278a.js",
+    "runtime-main.js.map": "/LineOs/static/js/runtime-main.b2d9278a.js.map",
+    "static/js/2.8eb1285a.chunk.js": "/LineOs/static/js/2.8eb1285a.chunk.js",
+    "static/js/2.8eb1285a.chunk.js.map": "/LineOs/static/js/2.8eb1285a.chunk.js.map",
+    "static/js/3.35ca9b56.chunk.js": "/LineOs/static/js/3.35ca9b56.chunk.js",
+    "static/js/3.35ca9b56.chunk.js.map": "/LineOs/static/js/3.35ca9b56.chunk.js.map",
+    "index.html": "/LineOs/index.html",
+    "service-worker.js": "/LineOs/service-worker.js",
+    "service-worker.js.map": "/LineOs/service-worker.js.map",
+    "static/css/main.a617e044.chunk.css.map": "/LineOs/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8eb1285a.chunk.js.LICENSE.txt": "/LineOs/static/js/2.8eb1285a.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/LineOs/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2d9278a.js",
+    "static/js/2.8eb1285a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.c2a44a2b.chunk.js"
+  ]
+}
