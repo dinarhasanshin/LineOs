@@ -1,6 +1,7 @@
 {
   "name": "line-os",
   "version": "0.1.0",
+  "homepage" : "http://dinarhasanshin.github.io/<reponame>",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
