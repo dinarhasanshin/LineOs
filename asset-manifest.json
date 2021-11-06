@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LineOs/static/css/main.9b8fabfa.chunk.css",
+    "main.css": "/LineOs/static/css/main.3e86fb4e.chunk.css",
     "main.js": "/LineOs/static/js/main.f366bb8e.chunk.js",
     "main.js.map": "/LineOs/static/js/main.f366bb8e.chunk.js.map",
     "runtime-main.js": "/LineOs/static/js/runtime-main.e9377c0d.js",
@@ -14,7 +14,7 @@
     "service-worker.js": "/LineOs/service-worker.js",
     "service-worker.js.map": "/LineOs/service-worker.js.map",
     "static/css/2.f18bdf61.chunk.css.map": "/LineOs/static/css/2.f18bdf61.chunk.css.map",
-    "static/css/main.9b8fabfa.chunk.css.map": "/LineOs/static/css/main.9b8fabfa.chunk.css.map",
+    "static/css/main.3e86fb4e.chunk.css.map": "/LineOs/static/css/main.3e86fb4e.chunk.css.map",
     "static/js/2.2963774a.chunk.js.LICENSE.txt": "/LineOs/static/js/2.2963774a.chunk.js.LICENSE.txt",
     "static/media/App.module.css": "/LineOs/static/media/foreground.0b99a867.png"
   },
@@ -22,7 +22,7 @@
     "static/js/runtime-main.e9377c0d.js",
     "static/css/2.f18bdf61.chunk.css",
     "static/js/2.2963774a.chunk.js",
-    "static/css/main.9b8fabfa.chunk.css",
+    "static/css/main.3e86fb4e.chunk.css",
     "static/js/main.f366bb8e.chunk.js"
   ]
 }
