@@ -1,7 +1,7 @@
 {
   "name": "line-os",
   "version": "0.1.0",
-  "homepage" : "http://dinarhasanshin.github.io/<reponame>",
+  "homepage": "https://dinarhasanshin.github.io/LineOs",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
@@ -11,9 +11,12 @@
     "@types/node": "^12.20.36",
     "@types/react": "^16.14.20",
     "@types/react-dom": "^16.9.14",
+    "@use-gesture/react": "^10.1.1",
     "react": "^17.0.2",
+    "react-device-frameset": "^1.2.0",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "react-spring": "^9.3.0",
     "typescript": "^4.4.4",
     "web-vitals": "^0.2.4",
     "workbox-background-sync": "^5.1.4",
@@ -32,6 +35,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -52,5 +57,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }

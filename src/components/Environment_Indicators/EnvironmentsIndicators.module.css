@@ -1,0 +1,85 @@
+/* Battery Indicator */
+:root{
+    --color-battery: white
+}
+
+.batteryIndicator{
+    position: relative;
+    width: 14px;
+    height: 6px;
+    border-radius: 2px;
+    padding: 1px;
+    border: 1px solid var(--color-battery);
+    margin-left: 4px;
+}
+.batteryIndicator:after{
+    position: absolute;
+    content: ' ';
+    width: 1.5px;
+    height: 3.5px;
+    top: calc(50% - 1.75px);
+    left: 16.5px;
+    border-radius: 1px;
+    background-color: var(--color-battery);
+}
+.batteryIndicator:before{
+    position: absolute;
+
+}
+.level{
+    width: 100%;
+    height: 100%;
+    background-color: var(--color-battery);
+    border-radius: 1px;
+}
+
+
+
+/* CommunicationIndicator */
+.communication{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.communicationIndicator{
+    width: 11px;
+    height: 9px;
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+    margin-right: 4px;
+}
+.communicationLevel{
+    width: 2px;
+    background-color: var(--color-battery);
+    height: 3px;
+    border-radius: 1px;
+}
+.communicationLevelName span{
+    font-family: 'Kanit', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    color: white;
+    display: flex;
+    line-height: 21.7px;
+}
+
+/* timeIndicator */
+
+.timeIndicator{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+.timeIndicator span{
+    display: flex;
+    font-family: 'Kanit', sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21.7px;
+    color: white;
+}
