@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/LineOs/static/css/main.4ae23ca5.chunk.css",
-    "main.js": "/LineOs/static/js/main.3462a445.chunk.js",
-    "main.js.map": "/LineOs/static/js/main.3462a445.chunk.js.map",
+    "main.js": "/LineOs/static/js/main.c4bb7608.chunk.js",
+    "main.js.map": "/LineOs/static/js/main.c4bb7608.chunk.js.map",
     "runtime-main.js": "/LineOs/static/js/runtime-main.6a92958f.js",
     "runtime-main.js.map": "/LineOs/static/js/runtime-main.6a92958f.js.map",
     "static/css/2.f18bdf61.chunk.css": "/LineOs/static/css/2.f18bdf61.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.f18bdf61.chunk.css",
     "static/js/2.090e44ba.chunk.js",
     "static/css/main.4ae23ca5.chunk.css",
-    "static/js/main.3462a445.chunk.js"
+    "static/js/main.c4bb7608.chunk.js"
   ]
 }
